@@ -17,3 +17,18 @@ Using data from nextspaceflight.com, I analyze trends in mission success rates, 
 - Pandas & NumPy
 - Matplotlib & Seaborn
 - Plotly (Choropleth, Sunburst, and Segmented Bar Charts)
+
+## Answers:
+The 4 Project Answers
+1. Who launched the most missions?
+    Historically: The RVSN USSR is the all-time leader (dominating from the 1960s through the 1980s).
+    Recently: Since 2018, CASC (China) has launched the most missions per year.
+
+2. How has the cost varied over time?
+    Costs reached an extreme peak in the late 1980s (specifically 1987-1988). Since the 1990s, costs have generally decreased and stabilized as technology became more efficient.
+
+3. Which months are most popular?
+    December is the busiest month for space launches, followed by August and October.
+
+4. Have space missions gotten safer?
+    Yes. We moved from a very high failure rate in the 1950s (only ~35% success) to a consistent success rate of 90-95% from the 1970s onwards.
